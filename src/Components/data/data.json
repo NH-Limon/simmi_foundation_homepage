@@ -1,0 +1,34 @@
+{
+	"counts": [
+		{
+			"id": "001",
+			"label": "COUNTRIES",
+			"number": "10",
+			"duration": "2"
+		},
+		{
+			"id": "002",
+			"label": "PROJECTS",
+			"number": "150",
+			"duration": "2"
+		},
+		{
+			"id": "003",
+			"label": "VOLUNTEERS",
+			"number": "10000",
+			"duration": "2"
+		},
+		{
+			"id": "004",
+			"label": "States",
+			"number": "20",
+			"duration": "2"
+		},
+		{
+			"id": "005",
+			"label": "BENIFICIRIES",
+			"number": "500000",
+			"duration": "2"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+.social-media {
+    background-color: #212529;
+    padding: 40px 0;
+}
+
+.social-media img:hover {
+    filter: brightness(0.7);
+    cursor: pointer;
+}
+
+.social-media h1 {
+    color: #f58634;
+    text-align: center;
+    font-weight: 400;
+    padding: 20px 0;
+    font-size: 40px;
+}
+
+.socialPart {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

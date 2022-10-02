@@ -1,0 +1,162 @@
+.fundraisers {
+    background-color: #212529;
+    padding-bottom: 50px;
+}
+
+.fundraisers h1 {
+    text-align: center;
+}
+
+.desc {
+    text-align: center;
+}
+
+.fund_image {
+    height: 378px;
+    width: 495px;
+}
+.funds {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 60px;
+}
+
+.fund_description {
+    width: 400px;
+    font-weight: 300;
+    margin-left: 10px;
+}
+
+.single_fund {
+    /* text-align: center; */
+}
+
+.fund_text {
+    background-color: #fff;
+    padding: 10px 20px;
+    width: 495px;
+}
+
+.fund_text h2 {
+    margin-left: 25px;
+    color: #f58634;
+    font-size: 22px;
+    font-family: sans-serif;
+    font-weight: 600;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.range {
+    font-size: 16px;
+    opacity: 0.7;
+}
+
+
+/* range lines */
+.range-line1 {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.range-line1 .first {
+    height: 4px;
+    width: 240px;
+    background-color: #f58634;
+}
+
+.range-line1 .second {
+    height: 4px;
+    width: 240px;
+    background-color: #ddd;
+}
+
+.range-line1 {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.range-line1 .first {
+    height: 4px;
+    width: 240px;
+    background-color: #f58634;
+}
+
+.range-line1 .second {
+    height: 4px;
+    width: 240px;
+    background-color: #ddd;
+}
+
+
+.range-line2 {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.range-line2 .first {
+    height: 4px;
+    width: 125px;
+    background-color: #f58634;
+}
+
+.range-line2 .second {
+    height: 4px;
+    width: 355px;
+    background-color: #ddd;
+}
+
+
+.range-line3 {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.range-line3 .first {
+    height: 4px;
+    width: 36px;
+    background-color: #f58634;
+}
+
+.range-line3 .second {
+    height: 4px;
+    width: 644px;
+    background-color: #ddd;
+}
+
+
+.range-line4 {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.range-line4 .first {
+    height: 4px;
+    width: 20px;
+    background-color: #f58634;
+}
+
+.range-line4 .second {
+    height: 4px;
+    width: 660px;
+    background-color: #ddd;
+}
+
+
+.third {
+
+}
+
+.read_more_part {
+    color: #f58634;
+}
+
+.read_more_part:hover {
+    cursor: pointer;
+}
+
+.first {}
+
+.second {}

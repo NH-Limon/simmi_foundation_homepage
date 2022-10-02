@@ -1,0 +1,29 @@
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    height: 200px;
+    width: 200px;
+    margin-left: 20px;
+}
+
+.mySwiper {
+    padding: 20px;
+}
+
+.slide {
+    margin-left: 20px;
+}
+
+
+.partners {
+    padding: 30px 30px;
+    background-color: rgb(243, 243, 243);
+}
+
+.partners h1 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 300;
+}

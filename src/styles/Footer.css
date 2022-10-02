@@ -1,0 +1,61 @@
+.footer {
+    background-color: #212529;
+    color: #fff;
+}
+
+.footer-first {
+    display: flex;
+    padding: 10px 100px;
+    gap: 60px;
+    padding-top: 60px;
+}
+
+.logos img {
+    height: 50px;
+    width: 50px;
+}
+
+.about p {
+    width: 400px;
+    font-weight: 300;
+}
+
+.initiatives p:hover {
+    color: #f58634;
+    cursor: pointer;
+}
+
+.more p {
+    font-size: 16px;
+    font-weight: bold;
+    margin-right: 30px;
+    width: 126px;
+    margin-top: 41px;
+}
+
+.questions p:hover {
+    color: #f58634;
+    cursor: pointer;
+}
+
+.questions span {
+    margin-left: 10px;
+}
+
+.footer-second {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.logos {
+    margin-bottom: 20px;
+}
+
+.footer-text {
+    padding-bottom: 20px;
+}
+
+span.heart {
+    opacity: 0.5;
+    filter: grayscale(1);
+}

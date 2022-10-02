@@ -1,0 +1,76 @@
+.objectives {
+    text-align: center;
+    padding: 30px;
+}
+
+.objectives h1 {
+    text-align: center;
+}
+
+.objective {
+    box-shadow: 2px 2px 9px -2px #000;
+    height: 400px;
+    width: 272px;
+}
+
+.all-objectives {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+    text-align: center;
+    margin: 40px 0;
+}
+
+img.obj-img {
+    height: 170px;
+    width: 100%;
+}
+
+.objective-text {
+    text-align: center;
+    margin-top: -13px;
+    padding-bottom: 31px
+}
+
+.objective-text h2 {
+    color: #f58634;
+    margin: 13px 0;
+    padding-top: 5px;
+    font-size: 21px;
+    font-family: sans-serif;
+}
+
+.obj-text {
+    width: 200px;
+    margin-left: 25px;
+    opacity: 0.5;
+}
+
+.read-more-text {
+    font-size: 21px;
+    font-weight: 300;
+}
+
+.icon {
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.healthcare {
+    padding-bottom: 9px;
+}
+
+/* Hovers */
+
+.objective:hover .objective-text {
+    background-color: #f58634;
+}
+
+.objective:hover h2 {
+    color: #000;
+}
+
+.objective:hover img {
+    opacity: 0.6;
+}

@@ -1,0 +1,23 @@
+.counter-element {
+    margin-left: 27px;
+    height: 95px;
+    width: 309px;
+    background-color: #f8702e;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 40px;
+    font-size: 30px;
+    color: #fff;
+}
+
+.counter-element:hover {
+    border: 2px solid #fff;
+}
+
+.label {
+    color: #000;
+    font-size: 24px;
+    display: block;
+}
